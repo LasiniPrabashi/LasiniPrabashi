@@ -8,10 +8,8 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently studying in **IJSE**
-
-- 🌱 I’m currently learning **Computer science**
- - 🌱 I’m currently learning `Computer Science` and `Software Engineering`.
-
+-  🌱 I’m currently learning `Computer Science` and `Software Engineering`.
+- 🌱 Currently learning `Java`, `MySql`, `Hibarnate`, `HTML`, `JavaFx`, `CSS`
 - 📫 How to reach me **lasiniprabashi0327@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
