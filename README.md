@@ -10,6 +10,7 @@
 - 🔭 I’m currently studying in **IJSE**
 
 - 🌱 I’m currently learning **Computer science**
+ - 🌱 I’m currently learning `Computer Science` and `Software Engineering`.
 
 - 📫 How to reach me **lasiniprabashi0327@gmail.com**
 
